@@ -1,0 +1,14 @@
+.monochromatic,
+.highlighter {
+  font-family: Helvetica, "Times New Roman", sans-serif;
+  font-size: 28px;
+}
+
+.monochromatic {
+  background-color: hsl(0, 0%, 0%);
+  color: hsl(0, 0%, 100%);
+}
+
+.highlighter {
+  background-color: hsl(60, 100%, 50%);
+}
